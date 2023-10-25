@@ -1,0 +1,4 @@
+export PATH = حط الباس :$PATH
+
+وبعدين اكتب ف الباش 
+source Set_Env_var.sh
