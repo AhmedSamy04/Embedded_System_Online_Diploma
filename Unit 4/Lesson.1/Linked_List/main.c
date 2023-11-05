@@ -5,20 +5,6 @@
  *      Author: Ahmed Sami
  */
 
-/*
- * main.c
- *
- *  Created on: Nov 5, 2023
- *      Author: Ahmed Sami
- */
-
-
-/*
- * main.c
- *
- *  Created on: Nov 5, 2023
- *      Author: Ahmed Sami
- */
 
 #include "stdio.h"
 #include "stdlib.h"
