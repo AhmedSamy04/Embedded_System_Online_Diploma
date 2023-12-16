@@ -1,5 +1,5 @@
 /* linker script cortex-m3
-Eng. Ahmed Sami */
+Eng. Ahmed Samy */
 
 MEMORY
 {
