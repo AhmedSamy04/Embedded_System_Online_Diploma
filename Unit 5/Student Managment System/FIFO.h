@@ -1,10 +1,3 @@
-/*
- * fifo.h
- *
- *  Created on: Feb 6, 2023
- *      Author: galal
- */
-
 #ifndef FIFO_H_
 #define FIFO_H_
 

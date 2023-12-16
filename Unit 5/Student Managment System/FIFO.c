@@ -1,10 +1,3 @@
-/*
- * fifo.c
- *
- *  Created on: Feb 4, 2023
- *      Author: galal
- */
-
 #include "FiFo.h"
 
 
